@@ -8,7 +8,7 @@ from datetime import datetime
 from multiprocessing import Pool, cpu_count
 
 # GitHub API details
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "my_github_api_token"
 OWNER = "CSSEGISandData"
 REPO = "COVID-19"
 PATH = "csse_covid_19_data/csse_covid_19_daily_reports"
