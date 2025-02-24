@@ -16,7 +16,7 @@ GITHUB_API_URL = f"https://api.github.com/repos/{OWNER}/{REPO}/contents/{PATH}"
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 # Directory to save graphs
-GRAPHS_DIR = "C:/Users/Rithin/OneDrive/Desktop/Graphs"
+GRAPHS_DIR = "my_directory_path"
 os.makedirs(GRAPHS_DIR, exist_ok=True)
 
 # Fetch repository contents
@@ -29,7 +29,6 @@ else:
     exit()
 
 def process_csv(file_name):
-    """Processes a single CSV file and generates relevant charts."""
     try:
         # Download CSV file
         file_url = f"https://raw.githubusercontent.com/{OWNER}/{REPO}/master/{PATH}/{file_name}"
