@@ -23,6 +23,7 @@ Ensure you have the following before running the scraper:
 - Python 3.9 or higher 🐍
 - Jupyter Notebook (for `.ipynb` execution) 📓
 - Required Python libraries: `pandas (2.2.1)`, `requests(2.32.3)`, `beautifulsoup4 (4.12.3)`, `seaborn (0.13.2)`, `matplotlib (3.8.2)`, `wordcloud (1.9.4)`
+- Stable Internet Connection
 
 ---
 
@@ -39,7 +40,7 @@ pip install pandas requests beautifulsoup4 seaborn matplotlib wordcloud
 1. Clone this repository:
    ```sh
    git clone https://github.com/vinitrshah03/OST/Web Scraping/Job Scraper.git
-   cd Job-Scraping-Analysis
+   cd OST/Web Scraping/Job Scraper
    ```
 2. Open `Job Scraper.ipynb` in Jupyter Notebook.
 3. Run all the cells to start scraping job postings.
