@@ -32,7 +32,7 @@ pip install pandas requests beautifulsoup4
 ## ⚙️ How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/vinitrshah03/Amazon-Web-Scraper.git
+   git clone https://github.com/vinitrshah03/OST/Web Scraping/Amazon Scraper.git
    cd Amazon-Web-Scraper
    ```
 2. Open `Amazon Web Scraper.ipynb` in Jupyter Notebook.
