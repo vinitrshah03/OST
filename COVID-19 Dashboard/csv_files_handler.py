@@ -20,7 +20,7 @@ from datetime import datetime
 from multiprocessing import Pool, cpu_count
 
 # GitHub API details
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "my_github_api_token"
 OWNER = "CSSEGISandData"
 REPO = "COVID-19"
 PATH = "csse_covid_19_data/csse_covid_19_daily_reports"
@@ -28,7 +28,7 @@ GITHUB_API_URL = f"https://api.github.com/repos/{OWNER}/{REPO}/contents/{PATH}"
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 # Directory to save graphs
-GRAPHS_DIR = "C:/Users/Rithin/OneDrive/Desktop/Graphs"
+GRAPHS_DIR = "my_direcotry_path"
 os.makedirs(GRAPHS_DIR, exist_ok=True)
 
 """
