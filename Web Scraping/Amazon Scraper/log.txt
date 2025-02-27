@@ -1,0 +1,100 @@
+2025-02-25 17:33:28 - INFO - Initializing WebDriver
+2025-02-25 17:33:29 - INFO - Starting Amazon Best Sellers Scraper
+2025-02-25 17:33:35 - INFO - Successfully loaded Amazon Best Sellers page.
+2025-02-25 17:33:35 - INFO - Scraped Product 1: Amazon Brand - Presto! Garbage Bags | Medium | 180 Count | 30 Bags X 6 Rolls | 19 X 21 Inches | Material Plastic | For Dry & Wet Waste | Black | Price: \u20b9330.00 | Rating: 4.4 | Reviews: 49,509
+2025-02-25 17:33:35 - INFO - Scraped Product 2: ATOM Digital Kitchen Food Weighing Scale For Healthy Living, Home Baking, Cooking, Fitness & Balanced Diet. | 1 Year Warranty | 10Kg x 1gms with 2 Batteries Included, SF400/A121, Color May vary | Price: \u20b9199.00 | Rating: 3.9 | Reviews: 8,337
+2025-02-25 17:33:35 - INFO - Scraped Product 3: Storite 2 Pack Moisture Proof Nylon Large Size Underbed Storage Bag For Clothes (54 x 46 x 28 cm) - Black, Rectangular | Price: \u20b9499.00 | Rating: 4.4 | Reviews: 21,731
+2025-02-25 17:33:35 - INFO - Scraped Product 4: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel | Price: \u20b9274.00 | Rating: 3.9 | Reviews: 9,279
+2025-02-25 17:33:35 - INFO - Scraped Product 5: Ezee Black Garbage Bags for Dustbin | 90 Pcs | Medium 19 X 21 Inches | 30 Pcs x Pack of 3 | Price: \u20b9179.00 | Rating: 4.2 | Reviews: 36,884
+2025-02-25 17:33:35 - INFO - Scraped Product 6: NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jar, Silver) - 2 Year Warranty | Price: \u20b91,599.00 | Rating: 4.2 | Reviews: 18,071
+2025-02-25 17:33:35 - INFO - Scraped Product 7: Pigeon Polypropylene Mini Handy and Compact Chopper with 3 Blades for Effortlessly Chopping Vegetables and Fruits for Your Kitchen (12420, Green, 400 ml) | Price: \u20b9159.00 | Rating: 3.9 | Reviews: 212,011
+2025-02-25 17:33:35 - INFO - Scraped Product 8: amazon basics Vacuum Compression Storage Bags With Hand Pump-Large,5-Pack,Plastic,White | Price: \u20b9679.00 | Rating: 4.3 | Reviews: 100,279
+2025-02-25 17:33:35 - INFO - Scraped Product 9: Amazon Brand - Presto! Garbage Bags | Large | 90 Count | 15 Bags X 6 Rolls | 24 X 32 Inches | Material Plastic | For Dry & Wet Waste | Black | Price: \u20b9340.00 | Rating: 4.3 | Reviews: 14,360
+2025-02-25 17:33:35 - INFO - Scraped Product 10: Trance 100% Waterproof Premium Cotton Feel Mattress Protector King Size, 78x72 Inches | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector Cover (78"x72" Fits Upto 10 Inches - King, Grey | Price: \u20b9669.00 | Rating: 4.2 | Reviews: 30,133
+2025-02-25 17:33:35 - INFO - Scraped Product 11: Bajaj DX-6 1000W Dry Iron with Advance Soleplate and Anti-bacterial German Coating Technology, White | Price: \u20b9499.00 | Rating: 4.1 | Reviews: 35,936
+2025-02-25 17:33:35 - INFO - Scraped Product 12: Shalimar Plastic Premium Garbage Bags (Lavender Fragrance) Size 19 X 21 Inches (Medium) 120 Bags (4 Rolls) Dustbin Bag/Trash Bag - Black Color, 120 count | Price: \u20b9289.00 | Rating: 4.5 | Reviews: 21,187
+2025-02-25 17:33:35 - INFO - Scraped Product 13: Ganesh Spark Gas Lighter for Kitchen Use Restaurants Metal Gas Stove Lighter Regular Size Easy Grip Long Lasting, Rust Proof | Price: \u20b964.00 | Rating: 4.2 | Reviews: 175
+2025-02-25 17:33:35 - INFO - Scraped Product 14: Wakefit 100% Waterproof Premium Cotton Mattress Protector | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector 78"x72" - King, Grey | Price: \u20b91,048.00 | Rating: 4.3 | Reviews: 105,745
+2025-02-25 17:33:35 - INFO - Scraped Product 15: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent | Price: \u20b9189.00 | Rating: 4.1 | Reviews: 7,834
+2025-02-25 17:33:35 - INFO - Scraped Product 16: Homestrap Set of 6 Non-Woven Printed Saree Cover/Cloth Storage/Wardrobe Organizer For Clothes with Transparent Window (Grey)(Shark Tank Featured) 45cmx33cmx22cm | Price: \u20b9359.00 | Rating: 4.0 | Reviews: 15,524
+2025-02-25 17:33:35 - INFO - Scraped Product 17: 5 Pack Smart Saver Vacuum Bags for Travel, Space Saver Bags (1 Large/2 Medium/2 Small) Compression Storage Bags for Clothes, Bedding, Pillows, Comforters, Blankets Storage Vacuum Sealer Bags for Clothes Storage, Vaccine Sealed Compression Airtight Reusable Packing Ziplock Bag with Travelling Hand Pump | Price: \u20b9499.00 | Rating: 4.2 | Reviews: 14,753
+2025-02-25 17:33:35 - INFO - Scraped Product 18: MILTON Comet 1000 Single Wall Stainless Steel Water Bottle 1000ml for School, Office, Home, Gym, Leakproof, Rust free, Black | Price: \u20b9298.00 | Rating: 3.8 | Reviews: 1,127
+2025-02-25 17:33:35 - INFO - Scraped Product 19: Wakefit Height Adjustable Hollow Fiber Sleeping Pillow with Zip |(White and Grey, Standard, Set of 2, Microfiber) 3 Months Warranty | Price: \u20b9878.00 | Rating: 4.3 | Reviews: 75,200
+2025-02-25 17:33:35 - INFO - Scraped Product 20: Orient Electric Apex-FX Ceiling Fan | 1200mm BEE Star Rated Ceiling Fan | Strong and Powerful Ceiling Fan | Outstanding Performance | 2 Years Warranty by Orient | BLUE | Price: \u20b91,399.00 | Rating: 3.9 | Reviews: 28,226
+2025-02-25 17:33:35 - INFO - Scraped data successfully saved to C:/Users/Rithin/OneDrive/Desktop/amazon_best_sellers.csv
+2025-02-25 17:33:37 - INFO - WebDriver closed successfully.
+2025-02-25 17:37:20 - INFO - Initializing WebDriver
+2025-02-25 17:37:21 - INFO - Starting Amazon Best Sellers Scraper
+2025-02-25 17:37:30 - INFO - Successfully loaded Amazon Best Sellers page.
+2025-02-25 17:37:30 - INFO - Scraped Product 1: Amazon Brand - Presto! Garbage Bags | Medium | 180 Count | 30 Bags X 6 Rolls | 19 X 21 Inches | Material Plastic | For Dry & Wet Waste | Black | Price: \u20b9330.00 | Rating: 4.4 | Reviews: 49,509
+2025-02-25 17:37:30 - INFO - Scraped Product 2: ATOM Digital Kitchen Food Weighing Scale For Healthy Living, Home Baking, Cooking, Fitness & Balanced Diet. | 1 Year Warranty | 10Kg x 1gms with 2 Batteries Included, SF400/A121, Color May vary | Price: \u20b9199.00 | Rating: 3.9 | Reviews: 8,337
+2025-02-25 17:37:30 - INFO - Scraped Product 3: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel | Price: \u20b9274.00 | Rating: 3.9 | Reviews: 9,279
+2025-02-25 17:37:30 - INFO - Scraped Product 4: Storite 2 Pack Moisture Proof Nylon Large Size Underbed Storage Bag For Clothes (54 x 46 x 28 cm) - Black, Rectangular | Price: \u20b9499.00 | Rating: 4.4 | Reviews: 21,731
+2025-02-25 17:37:30 - INFO - Scraped Product 5: NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jar, Silver) - 2 Year Warranty | Price: \u20b91,599.00 | Rating: 4.2 | Reviews: 18,071
+2025-02-25 17:37:30 - INFO - Scraped Product 6: Pigeon Polypropylene Mini Handy and Compact Chopper with 3 Blades for Effortlessly Chopping Vegetables and Fruits for Your Kitchen (12420, Green, 400 ml) | Price: \u20b9159.00 | Rating: 3.9 | Reviews: 212,012
+2025-02-25 17:37:30 - INFO - Scraped Product 7: Ezee Black Garbage Bags for Dustbin | 90 Pcs | Medium 19 X 21 Inches | 30 Pcs x Pack of 3 | Price: \u20b9179.00 | Rating: 4.2 | Reviews: 36,884
+2025-02-25 17:37:30 - INFO - Scraped Product 8: amazon basics Vacuum Compression Storage Bags With Hand Pump-Large,5-Pack,Plastic,White | Price: \u20b9679.00 | Rating: 4.3 | Reviews: 100,280
+2025-02-25 17:37:30 - INFO - Scraped Product 9: Amazon Brand - Presto! Garbage Bags | Large | 90 Count | 15 Bags X 6 Rolls | 24 X 32 Inches | Material Plastic | For Dry & Wet Waste | Black | Price: \u20b9340.00 | Rating: 4.3 | Reviews: 14,360
+2025-02-25 17:37:30 - INFO - Scraped Product 10: Trance 100% Waterproof Premium Cotton Feel Mattress Protector King Size, 78x72 Inches | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector Cover (78"x72" Fits Upto 10 Inches - King, Grey | Price: \u20b9669.00 | Rating: 4.2 | Reviews: 30,133
+2025-02-25 17:37:30 - INFO - Scraped Product 11: Bajaj DX-6 1000W Dry Iron with Advance Soleplate and Anti-bacterial German Coating Technology, White | Price: \u20b9499.00 | Rating: 4.1 | Reviews: 35,936
+2025-02-25 17:37:30 - INFO - Scraped Product 12: Homestrap Set of 6 Non-Woven Printed Saree Cover/Cloth Storage/Wardrobe Organizer For Clothes with Transparent Window (Grey)(Shark Tank Featured) 45cmx33cmx22cm | Price: \u20b9359.00 | Rating: 4.0 | Reviews: 15,524
+2025-02-25 17:37:30 - INFO - Scraped Product 13: Shalimar Plastic Premium Garbage Bags (Lavender Fragrance) Size 19 X 21 Inches (Medium) 120 Bags (4 Rolls) Dustbin Bag/Trash Bag - Black Color, 120 count | Price: \u20b9289.00 | Rating: 4.5 | Reviews: 21,187
+2025-02-25 17:37:30 - INFO - Scraped Product 14: Ganesh Spark Gas Lighter for Kitchen Use Restaurants Metal Gas Stove Lighter Regular Size Easy Grip Long Lasting, Rust Proof | Price: \u20b964.00 | Rating: 4.2 | Reviews: 175
+2025-02-25 17:37:30 - INFO - Scraped Product 15: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent | Price: \u20b9189.00 | Rating: 4.1 | Reviews: 7,834
+2025-02-25 17:37:30 - INFO - Scraped Product 16: Wakefit 100% Waterproof Premium Cotton Mattress Protector | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector 78"x72" - King, Grey | Price: \u20b91,048.00 | Rating: 4.3 | Reviews: 105,745
+2025-02-25 17:37:30 - INFO - Scraped Product 17: 5 Pack Smart Saver Vacuum Bags for Travel, Space Saver Bags (1 Large/2 Medium/2 Small) Compression Storage Bags for Clothes, Bedding, Pillows, Comforters, Blankets Storage Vacuum Sealer Bags for Clothes Storage, Vaccine Sealed Compression Airtight Reusable Packing Ziplock Bag with Travelling Hand Pump | Price: \u20b9499.00 | Rating: 4.2 | Reviews: 14,753
+2025-02-25 17:37:30 - INFO - Scraped Product 18: MILTON Comet 1000 Single Wall Stainless Steel Water Bottle 1000ml for School, Office, Home, Gym, Leakproof, Rust free, Black | Price: \u20b9298.00 | Rating: 3.8 | Reviews: 1,127
+2025-02-25 17:37:30 - INFO - Scraped Product 19: Orient Electric Apex-FX Ceiling Fan | 1200mm BEE Star Rated Ceiling Fan | Strong and Powerful Ceiling Fan | Outstanding Performance | 2 Years Warranty by Orient | BLUE | Price: \u20b91,399.00 | Rating: 3.9 | Reviews: 28,226
+2025-02-25 17:37:30 - INFO - Scraped Product 20: Wakefit Height Adjustable Hollow Fiber Sleeping Pillow with Zip |(White and Grey, Standard, Set of 2, Microfiber) 3 Months Warranty | Price: \u20b9878.00 | Rating: 4.3 | Reviews: 75,200
+2025-02-25 17:37:30 - INFO - Scraped data successfully saved to C:/Users/Rithin/OneDrive/Desktop/amazon_best_sellers.csv
+2025-02-25 17:37:32 - INFO - WebDriver closed successfully.
+2025-02-25 17:41:56 - INFO - Initializing WebDriver
+2025-02-25 17:41:57 - INFO - Starting Amazon Best Sellers Scraper
+2025-02-25 17:42:05 - INFO - Successfully loaded Amazon Best Sellers page.
+2025-02-25 17:42:05 - ERROR - Error scraping product 1: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 2: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 3: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 4: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 5: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 6: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 7: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 8: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 9: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 10: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 11: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 12: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 13: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 14: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 15: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 16: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 17: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 18: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 19: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error scraping product 20: 'NoneType' object has no attribute 'text'
+2025-02-25 17:42:05 - ERROR - Error saving CSV file: list index out of range
+2025-02-25 17:42:07 - INFO - WebDriver closed successfully.
+2025-02-25 17:43:03 - INFO - Initializing WebDriver
+2025-02-25 17:43:05 - INFO - Starting Amazon Best Sellers Scraper
+2025-02-25 17:43:10 - INFO - Successfully loaded Amazon Best Sellers page.
+2025-02-25 17:43:10 - INFO - Scraped Product 1: Amazon Brand - Presto! Garbage Bags | Medium | 180 Count | 30 Bags X 6 Rolls | 19 X 21 Inches | Material Plastic | For Dry & Wet Waste | Black | Price: \u20b9330.00 | Rating: 4.4 | Reviews: 49,510
+2025-02-25 17:43:10 - INFO - Scraped Product 2: ATOM Digital Kitchen Food Weighing Scale For Healthy Living, Home Baking, Cooking, Fitness & Balanced Diet. | 1 Year Warranty | 10Kg x 1gms with 2 Batteries Included, SF400/A121, Color May vary | Price: \u20b9199.00 | Rating: 3.9 | Reviews: 8,338
+2025-02-25 17:43:10 - INFO - Scraped Product 3: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel | Price: \u20b9274.00 | Rating: 3.9 | Reviews: 9,279
+2025-02-25 17:43:10 - INFO - Scraped Product 4: Storite 2 Pack Moisture Proof Nylon Large Size Underbed Storage Bag For Clothes (54 x 46 x 28 cm) - Black, Rectangular | Price: \u20b9499.00 | Rating: 4.4 | Reviews: 21,731
+2025-02-25 17:43:10 - INFO - Scraped Product 5: NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jar, Silver) - 2 Year Warranty | Price: \u20b91,599.00 | Rating: 4.2 | Reviews: 18,071
+2025-02-25 17:43:10 - INFO - Scraped Product 6: Pigeon Polypropylene Mini Handy and Compact Chopper with 3 Blades for Effortlessly Chopping Vegetables and Fruits for Your Kitchen (12420, Green, 400 ml) | Price: \u20b9159.00 | Rating: 3.9 | Reviews: 212,012
+2025-02-25 17:43:10 - INFO - Scraped Product 7: Ezee Black Garbage Bags for Dustbin | 90 Pcs | Medium 19 X 21 Inches | 30 Pcs x Pack of 3 | Price: \u20b9179.00 | Rating: 4.2 | Reviews: 36,884
+2025-02-25 17:43:10 - INFO - Scraped Product 8: amazon basics Vacuum Compression Storage Bags With Hand Pump-Large,5-Pack,Plastic,White | Price: \u20b9679.00 | Rating: 4.3 | Reviews: 100,280
+2025-02-25 17:43:10 - INFO - Scraped Product 9: Amazon Brand - Presto! Garbage Bags | Large | 90 Count | 15 Bags X 6 Rolls | 24 X 32 Inches | Material Plastic | For Dry & Wet Waste | Black | Price: \u20b9340.00 | Rating: 4.3 | Reviews: 14,360
+2025-02-25 17:43:10 - INFO - Scraped Product 10: Trance 100% Waterproof Premium Cotton Feel Mattress Protector King Size, 78x72 Inches | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector Cover (78"x72" Fits Upto 10 Inches - King, Grey | Price: \u20b9669.00 | Rating: 4.2 | Reviews: 30,133
+2025-02-25 17:43:10 - INFO - Scraped Product 11: Bajaj DX-6 1000W Dry Iron with Advance Soleplate and Anti-bacterial German Coating Technology, White | Price: \u20b9499.00 | Rating: 4.1 | Reviews: 35,936
+2025-02-25 17:43:10 - INFO - Scraped Product 12: Homestrap Set of 6 Non-Woven Printed Saree Cover/Cloth Storage/Wardrobe Organizer For Clothes with Transparent Window (Grey)(Shark Tank Featured) 45cmx33cmx22cm | Price: \u20b9359.00 | Rating: 4.0 | Reviews: 15,524
+2025-02-25 17:43:10 - INFO - Scraped Product 13: Shalimar Plastic Premium Garbage Bags (Lavender Fragrance) Size 19 X 21 Inches (Medium) 120 Bags (4 Rolls) Dustbin Bag/Trash Bag - Black Color, 120 count | Price: \u20b9289.00 | Rating: 4.5 | Reviews: 21,187
+2025-02-25 17:43:10 - INFO - Scraped Product 14: Ganesh Spark Gas Lighter for Kitchen Use Restaurants Metal Gas Stove Lighter Regular Size Easy Grip Long Lasting, Rust Proof | Price: \u20b964.00 | Rating: 4.2 | Reviews: 175
+2025-02-25 17:43:10 - INFO - Scraped Product 15: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent | Price: \u20b9189.00 | Rating: 4.1 | Reviews: 7,834
+2025-02-25 17:43:10 - INFO - Scraped Product 16: Wakefit 100% Waterproof Premium Cotton Mattress Protector | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector 78"x72" - King, Grey | Price: \u20b91,048.00 | Rating: 4.3 | Reviews: 105,745
+2025-02-25 17:43:10 - INFO - Scraped Product 17: 5 Pack Smart Saver Vacuum Bags for Travel, Space Saver Bags (1 Large/2 Medium/2 Small) Compression Storage Bags for Clothes, Bedding, Pillows, Comforters, Blankets Storage Vacuum Sealer Bags for Clothes Storage, Vaccine Sealed Compression Airtight Reusable Packing Ziplock Bag with Travelling Hand Pump | Price: \u20b9499.00 | Rating: 4.2 | Reviews: 14,753
+2025-02-25 17:43:10 - INFO - Scraped Product 18: MILTON Comet 1000 Single Wall Stainless Steel Water Bottle 1000ml for School, Office, Home, Gym, Leakproof, Rust free, Black | Price: \u20b9298.00 | Rating: 3.8 | Reviews: 1,127
+2025-02-25 17:43:10 - INFO - Scraped Product 19: Orient Electric Apex-FX Ceiling Fan | 1200mm BEE Star Rated Ceiling Fan | Strong and Powerful Ceiling Fan | Outstanding Performance | 2 Years Warranty by Orient | BLUE | Price: \u20b91,399.00 | Rating: 3.9 | Reviews: 28,226
+2025-02-25 17:43:10 - INFO - Scraped Product 20: Wakefit Height Adjustable Hollow Fiber Sleeping Pillow with Zip |(White and Grey, Standard, Set of 2, Microfiber) 3 Months Warranty | Price: \u20b9878.00 | Rating: 4.3 | Reviews: 75,200
+2025-02-25 17:43:10 - INFO - Scraped data successfully saved to C:/Users/Rithin/OneDrive/Desktop/amazon_best_sellers.csv
+2025-02-25 17:43:13 - INFO - WebDriver closed successfully.
