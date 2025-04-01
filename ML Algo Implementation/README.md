@@ -6,14 +6,14 @@ Welcome to **Machine Learning Algorithms for Sales Prediction**! This repository
 
 ## 📊 Implemented Machine Learning Algorithms
 This repository explores various ML algorithms for predicting sales:
-
-1️⃣ **Single Linear Regression** 
-2️⃣ **Multiple Linear Regression** 
-3️⃣ **Polynomial Regression** 
-4️⃣ **K-Means Clustering** 
-5️⃣ **Principal Component Analysis (PCA)** 
-6️⃣ **Combination of K-Means & Linear Regression** 
-7️⃣ **Ridge & Lasso Regression**
+<br><br>
+1️⃣ **Single Linear Regression**<br>
+2️⃣ **Multiple Linear Regression**<br>
+3️⃣ **Polynomial Regression**<br>
+4️⃣ **K-Means Clustering**<br>
+5️⃣ **Principal Component Analysis (PCA)**<br> 
+6️⃣ **Combination of K-Means & Linear Regression** <br>
+7️⃣ **Ridge & Lasso Regression**<br><br>
 
 Each model is used to predict **sales for 2024**, with an in-depth comparison of accuracy and performance.
 
