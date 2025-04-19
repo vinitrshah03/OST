@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Resume Analysis Result</h1>
+
+<h3>Match Score: {{ scores.total_score | round(2) }}%</h3>
+
+<ul>
+    <li><strong>Skills Match:</strong> {{ scores.skills_score | round(2) }}%</li>
+    <li><strong>Experience Match:</strong> {{ scores.experience_score | round(2) }}%</li>
+    <li><strong>Education Match:</strong> {{ scores.education_score | round(2) }}%</li>
+    <li><strong>Resume Structure:</strong> {{ scores.structure_score | round(2) }}%</li>
+    <li><strong>Keywords Match:</strong> {{ scores.keyword_score  | round(2) }}%</li>
+</ul>
+
+<h4>Score Breakdown</h4>
+<div style="height: 220px;">
+    <canvas id="scoreChart" style="max-width: 100%;"></canvas>
+</div>
+
+<h4>Feedback:</h4>
+<ul>
+    {% for line in feedback.split('Your') if line.strip() %}
+        <li>{{ 'Your ' + line.strip() }}</li>
+    {% endfor %}
+</ul>
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    const ctx = document.getElementById('scoreChart').getContext('2d');
+    const scoreChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Skills', 'Experience', 'Education', 'Structure', 'Keywords'],
+        datasets: [{
+            label: 'Match Score (%)',
+            data: [
+                {{ scores.skills_score | tojson }},
+                {{ scores.experience_score | tojson }},
+                {{ scores.education_score | tojson }},
+                {{ scores.structure_score | tojson }},
+                {{ scores.keyword_score | tojson }}
+            ],
+            backgroundColor: [
+                '#007bff',
+                '#28a745',
+                '#ffc107',
+                '#17a2b8',
+                '#6f42c1'
+            ]
+        }]
+    },
+    options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+            legend: {
+                display: false  
+            },
+            title: {
+                display: true,
+                text: 'Resume vs Job Description Score Breakdown',
+                font: {
+                    size: 18,
+                    weight: 'bold'
+                },
+                padding: {
+                    top: 10,
+                    bottom: 20
+                }
+            }
+        },
+        scales: {
+            y: {
+                beginAtZero: true,
+                max: 100
+            }
+        }
+    }
+});
+
+</script>
+{% endblock %}
+
+
+{# 
+    {% extends "base.html" %}
+    {% block content %}
+    <!-- <h1>Resume Analysis Result</h1>
+    <p>Here will be the result of the resume analysis.</p> -->
+    {% endblock %}
+#}
