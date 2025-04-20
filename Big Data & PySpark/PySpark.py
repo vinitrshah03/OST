@@ -8,7 +8,7 @@ import seaborn as sns
 spark = SparkSession.builder.appName("RetailSalesAnalysis").getOrCreate()
 
 # Load dataset (replace with your local path)
-df = spark.read.csv("C:/Users/Rithin/OneDrive/Desktop/OST/retail_sales_dataset.csv", header=True, inferSchema=True)
+df = spark.read.csv("<your_dataset_file_path>", header=True, inferSchema=True)
 
 # Preview data
 df.show(5)
@@ -71,6 +71,5 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
-# Optimization Tips:
 # df_cleaned.cache()
 # df_cleaned = df_cleaned.repartition("Store ID")
