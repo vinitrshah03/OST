@@ -36,6 +36,6 @@ This is a simple web-based Dashboard that shows analysis of daily reports record
 
 *Note: CSV files used are publicly available and have been referred for analysis. Link to COVID-19 dataset👉* [COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
 
-Results of csv_files_handler.py can be viewed freely by following the link below 👇: \n
+Results of csv_files_handler.py can be viewed freely by following the link below 👇:
 Click here 👉 [Graphs](https://mega.nz/folder/37ogECJK#8OAHG-_VEW25CxV09v48Qg)
 
